@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+h1.name {
+	font-family: nunito;
+	font-size: 40px;
+	color: red;
+	margin-left: 40%;
+}
