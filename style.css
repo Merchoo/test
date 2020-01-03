@@ -1,7 +1,61 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
-h1.name {
-	font-family: nunito;
-	font-size: 40px;
-	color: red;
-	margin-left: 40%;
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap');
+
+img {
+	margin-top: -8px;
+	margin-left: -8px;
+}
+
+.first_block {
+	font-family: roboto, serif;
+	font-size: 28px;
+	line-height: 1.4;
+	color: #262f32;
+	margin-left: 67%;
+	margin-top: 4%;
+}
+
+#first {
+	font-weight: 300;
+}
+
+#second {
+	font-weight: bolder;
+}
+
+#third {
+	font-weight: 400;
+}
+
+.text_first {
+	font-weight: 400;
+	font-size: 26px;
+	text-align: left;
+	margin-top: 7%;
+}
+
+#nav-btn1 {
+	border-bottom: 4px solid #262f32;
+	content:"";
+	height: 4px;
+	width: 44px;
+	margin-left: 67%;
+	margin-top: -45%;
+}
+
+#nav-btn2 {
+	border-bottom: 4px solid #262f32;
+	content:"";
+	height: 4px;
+	width: 44px;
+	margin-left: 67%;
+	margin-top: 12px;
+}
+
+#nav-btn3 {
+	border-bottom: 4px solid #262f32;
+	content:"";
+	height: 4px;
+	width: 44px;
+	margin-left: 67%;
+	margin-top: 12px;
 }
